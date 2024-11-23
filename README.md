@@ -53,7 +53,7 @@ The model successfully captured the non-linear relationships in the data, provid
 
 ## Conclusion
 This project demonstrates that machine learning, particularly Random Forest Regressor, can effectively predict gold prices based on economic and financial indicators. Accurate predictions can help investors and policymakers make informed decisions in a volatile market.
-<a href="">Project</a>
+<a href="https://github.com/Meghana157/Gold-price-prediction/blob/main/Gold_price_prediction.ipynb">Project</a>
 
 
 ## How to Run the Project
